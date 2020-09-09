@@ -1,4 +1,11 @@
-### Hi there 👋
+### Meet your DevOps instructor 👋, see my courses
+
+- [Docker](https://ondrej-sika.cz/skoleni/docker)
+- [Kubernetes](https://ondrej-sika.cz/skoleni/docker)
+- [Terraform](https://ondrej-sika.cz/skoleni/docker)
+- [Rancher](https://ondrej-sika.cz/skoleni/docker)
+- [Gitlab CI](https://ondrej-sika.cz/skoleni/gitlab-ci)
+- [Git](https://ondrej-sika.cz/skoleni/git)
 
 <!--
 **ondrejsika/ondrejsika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
