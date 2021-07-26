@@ -1,4 +1,15 @@
-### Meet your DevOps instructor 👋, see my courses
+<p align="center">
+  <h1 align="center"> Hi 👋, I'm <a href="https://sika.io">Ondrej Sika</a></h2>
+  <h4 align="center">Software, DevOps & SRE Engineer, Architect, Consultant and Lecturer 🇬🇧🇩🇪🇨🇿</h4>
+</p>
+
+<!--
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ondrejsika&count_private=true&show_icons=true" alt="Ondrej Sika's GitHub stats">
+</p>
+-->
+
+## Check out my courses
 
 - [Docker](https://ondrej-sika.cz/skoleni/docker)
 - [Kubernetes](https://ondrej-sika.cz/skoleni/docker)
