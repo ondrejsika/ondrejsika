@@ -12,9 +12,9 @@
 ## Check out my courses
 
 - [Docker](https://ondrej-sika.cz/skoleni/docker)
-- [Kubernetes](https://ondrej-sika.cz/skoleni/docker)
-- [Terraform](https://ondrej-sika.cz/skoleni/docker)
-- [Rancher](https://ondrej-sika.cz/skoleni/docker)
+- [Kubernetes](https://ondrej-sika.cz/skoleni/kubernetes)
+- [Terraform](https://ondrej-sika.cz/skoleni/terraform)
+- [Rancher](https://ondrej-sika.cz/skoleni/rancher)
 - [Gitlab CI](https://ondrej-sika.cz/skoleni/gitlab-ci)
 - [Git](https://ondrej-sika.cz/skoleni/git)
 
