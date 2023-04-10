@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center"> Hi 👋, I'm <a href="https://sika.io">Ondrej Sika</a></h2>
+  <h1 align="center"> Hi 👋, I'm <a href="https://sika.io">Ondrej Sika</a> from <a href="https://sikalabs.com">SikaLabs</a></h2>
   <h4 align="center">Software, DevOps & SRE Engineer, Architect, Consultant and Lecturer 🇬🇧🇩🇪🇨🇿</h4>
 </p>
 
