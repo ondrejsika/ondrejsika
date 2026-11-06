@@ -16,6 +16,7 @@
 [![ArgoCD](https://img.shields.io/badge/-Školení%20ArgoCD-orange?style=for-the-badge&logo=argo&logoColor=white)](https://ondrej-sika.cz/skoleni/argocd)
 [![Vault](https://img.shields.io/badge/-Školení%20Vault-000000?style=for-the-badge&logo=vault&logoColor=white)](https://ondrej-sika.cz/skoleni/vault)
 [![Terraform](https://img.shields.io/badge/-Školení%20Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://ondrej-sika.cz/skoleni/terraform)
+[![Keycloak](https://img.shields.io/badge/-Školení%20Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)](https://ondrej-sika.cz/skoleni/keycloak)
 [![Proxmox](https://img.shields.io/badge/-Školení%20Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)](https://ondrej-sika.cz/skoleni/proxmox)
 [![Rancher](https://img.shields.io/badge/-Školení%20Rancher-3382c3?style=for-the-badge&logo=rancher&logoColor=white)](https://ondrej-sika.cz/skoleni/rancher)
 [![GitLab CI](https://img.shields.io/badge/-Školení%20GitLab%20CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://ondrej-sika.cz/skoleni/gitlab-ci)
