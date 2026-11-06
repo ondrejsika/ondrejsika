@@ -21,6 +21,14 @@
 [![Rancher](https://img.shields.io/badge/-Školení%20Rancher-3382c3?style=for-the-badge&logo=rancher&logoColor=white)](https://ondrej-sika.cz/skoleni/rancher)
 [![GitLab CI](https://img.shields.io/badge/-Školení%20GitLab%20CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://ondrej-sika.cz/skoleni/gitlab-ci)
 [![Git](https://img.shields.io/badge/-Školení%20Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://ondrej-sika.cz/skoleni/git)
+[![Ansible](https://img.shields.io/badge/-Školení%20Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://ondrej-sika.cz/skoleni/ansible)
+[![Prometheus](https://img.shields.io/badge/-Školení%20Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://ondrej-sika.cz/skoleni/prometheus)
+[![Loki](https://img.shields.io/badge/-Školení%20Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://ondrej-sika.cz/skoleni/loki)
+[![ELK](https://img.shields.io/badge/-Školení%20ELK-005571?style=for-the-badge&logo=elasticstack&logoColor=white)](https://ondrej-sika.cz/skoleni/elk)
+[![OpenShift](https://img.shields.io/badge/-Školení%20OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)](https://ondrej-sika.cz/skoleni/openshift)
+[![DigitalOcean](https://img.shields.io/badge/-Školení%20DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)](https://ondrej-sika.cz/skoleni/digitalocean)
+[![Cloudflare](https://img.shields.io/badge/-Školení%20Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://ondrej-sika.cz/skoleni/cloudflare)
+[![Go](https://img.shields.io/badge/-Školení%20Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://ondrej-sika.cz/skoleni/go)
 
 <!--
 **ondrejsika/ondrejsika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
